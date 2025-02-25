@@ -23,9 +23,13 @@ A basic front end –
 •	In addition to pull the APIs for dynamic 3 months charts, basic indicators, perps analytics (funding, long/short ratios, open interest, liquidation levels) and feed to SQLite db. 1 minute intervals. 
 (Do not need the Orderbook)
 Not building a DEX, Im building a Perp trading bot on the Orderly Network. But it appears one of the UIs/apps has to be chosen to first setup functions and connections.
+
 Orderly Broker ID: woofi_pro
+
 Orderly Broker Name: WOOFi
+
 Arbitrum rpc: arb1.arbitrum.io/rpc
+
 Arbitrum chain ID: 42161
 Arbitrum USDC wallet address: 0xaf88d065e77c8cC2239327C5EDb3A432268e5831
 Arbitrum USDC vault address: 0x816f722424B49Cf1275cc86DA9840Fbd5a6167e9
